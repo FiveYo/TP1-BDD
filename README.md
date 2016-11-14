@@ -17,7 +17,7 @@ La BI, **Business Intelligence**, est le résultat d'une évolution des besoins 
 						- niveau de granularité fin
 						- décentralisés
 
-**Décisionnel : voit tourner l'entreprise. Permet de générer de la connaissance à partir des données, et donc, d'aider à faire des décisions stratégiques.
+**Décisionnel** : voit tourner l'entreprise. Permet de générer de la connaissance à partir des données, et donc, d'aider à faire des décisions stratégiques.
 						- Gros volumes de données à gérer.
 						- Nombre d'utilisateur restreint (décideurs, analystes).
 						- Processus ouverts pour permettre la génération de connaissance.
